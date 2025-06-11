@@ -1,17 +1,38 @@
-# Servicenow-incident-lifecycle
-Notes and flow of incident management in Servicenow
+# 🛠️ ServiceNow Incident Lifecycle
 
-### 🔹 What is an Incident?
-An incident is an unplanned interruption to an IT service or a reduction in the quality of an IT service.
+This project explains the lifecycle of an Incident in the ServiceNow platform based on my experience as a System Engineer at TCS.
 
-### 🔄 Incident Flow:
-1. **Incident Logging**
-2. **Incident Categorization**
-3. **Prioritization**
-4. **Assignment**
-5. **Investigation and Diagnosis**
-6. **Resolution and Recovery**
-7. **Incident Closure**
+## 📋 Topics Covered
+- What is an Incident?
+- Step-by-step Incident Lifecycle
+- My real-life experience handling incidents
+- Sample use case in a retail project
 
-### 📝 My Experience:
-At TCS, I worked on resolving L2-level incidents in a retail domain...
+---
+
+## 🔄 Incident Lifecycle Steps
+
+1. **Incident Logging** – End-user or support engineer logs the incident
+2. **Categorization** – Incident is classified (e.g., hardware, software)
+3. **Prioritization** – Based on impact & urgency
+4. **Assignment** – Sent to appropriate support group
+5. **Investigation & Diagnosis** – Root cause identified
+6. **Resolution & Recovery** – Issue resolved
+7. **Incident Closure** – User confirms and ticket is closed
+
+---
+
+## 💼 Real Experience
+
+I handled L2 support in a retail-based project in TCS. My role included monitoring, categorizing incidents, creating incidents as per user requirements, working on the incidents and assigning to the respected team back or resolving them and closing them when the user confirms and ensuring SLAs were met.
+
+---
+
+## 📌 Tools Used
+
+- ServiceNow
+- Salesforce
+- Jira
+- Grafana dashboard
+- Email notifications
+- Knowledge articles
